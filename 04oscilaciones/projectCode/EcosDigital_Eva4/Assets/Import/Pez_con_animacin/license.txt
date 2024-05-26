@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pez con animación
+* source:	https://sketchfab.com/3d-models/pez-con-animacion-093c99945f204695b19fc81a97cb693e
+* author:	Syaga09 (https://sketchfab.com/syaga)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pez con animación" (https://sketchfab.com/3d-models/pez-con-animacion-093c99945f204695b19fc81a97cb693e) by Syaga09 (https://sketchfab.com/syaga) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

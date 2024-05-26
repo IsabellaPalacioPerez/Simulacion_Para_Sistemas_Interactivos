@@ -1,0 +1,11 @@
+Model Information:
+* title:	White Pointer
+* source:	https://sketchfab.com/3d-models/white-pointer-8e429052939a4677861d0d550a0e27cd
+* author:	artStevenz (https://sketchfab.com/3dCoast)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "White Pointer" (https://sketchfab.com/3d-models/white-pointer-8e429052939a4677861d0d550a0e27cd) by artStevenz (https://sketchfab.com/3dCoast) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
